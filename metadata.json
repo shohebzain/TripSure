@@ -1,0 +1,8 @@
+{
+  "name": "TripSure - AI Powered Intercity Logistics",
+  "description": "A modern platform optimizing rural-to-urban return trips for passengers and cargo using AI-powered matching, secure KYC, and real-time tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
